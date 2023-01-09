@@ -1,0 +1,55 @@
+/* Start Feather icons */
+
+.command {}
+
+
+.command a {
+    text-decoration: none;
+    background-image: url(Feather_icons/Command_icon.png);
+    width: 50px;
+    height: 61px;
+    display: inline-block;
+    margin-right: 0;
+    background-position: -30px -14px;
+    background-size: 539px;
+    text-indent: 99999px;
+}
+
+.command a:hover {
+    background-position: -30px 275px;
+    transition: all 0.5s ease-in-out;
+}
+
+.command a.print {background-position: -85px -14px;}
+.command a.print:hover {background-position: -85px 275px;}
+
+.command a.undo {background-position: -136px -16px;}
+.command a.undo:hover {background-position: -136px 275px;}
+
+.command a.redo {background-position: -189px -16px;}
+.command a.redo:hover {background-position: -191px 275px;}
+
+.command a.search {background-position: -245px -16px;}
+.command a.search:hover {background-position: -245px 275px;}
+
+.command a.mic {background-position: -294px -14px;}
+.command a.mic:hover {background-position: -294px 275px;}
+
+.command a.phone {background-position: -343px -16px;}
+.command a.phone:hover {background-position: -343px 275px;}
+
+.command a.skip_back {background-position: -389px -16px;}
+.command a.skip_back:hover {background-position:-389px 275px;}
+
+.command a.pause {background-position: -428px -16px;}
+.command a.pause:hover {background-position: -428px 275px;}
+
+.command a.skip_forward {background-position: -467px -16px;}
+.command a.skip_forward:hover {background-position: -467px 275px;}
+
+/* End Feather icons */
+
+
+
+
+        
